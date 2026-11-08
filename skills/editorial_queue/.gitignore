@@ -1,0 +1,9 @@
+# The queue and its private records live outside the payload.
+.self_authored.json
+.ouroboros_env/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.sqlite*
+*.db
